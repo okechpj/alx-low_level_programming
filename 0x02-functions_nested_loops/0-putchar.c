@@ -13,8 +13,8 @@ int main(void)
 
 	for (i = 0; i < 8; i++)
 	{
-		putchar(school[i]);
+		_putchar(school[i]);
 	}
-	putchar(10);
+	_putchar(10);
 	return (0);
 }
